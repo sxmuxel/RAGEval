@@ -1,0 +1,9 @@
+ragas==0.1.21
+datasets
+openai
+langchain-openai
+langchain
+langchain-community
+scikit-learn
+python-dotenv
+numpy
