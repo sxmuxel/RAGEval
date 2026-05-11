@@ -57,7 +57,7 @@ python -m venv venv
 
 En la terminal:
 ```bash
-python main.py
+pip install -r requirements.txt
 ```
 
 ### Paso 4: Ejecutar el script
